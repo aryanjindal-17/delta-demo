@@ -2,4 +2,4 @@
 This is a demo for Git &amp; Github
 
 # student
-Aryan Jindalgit st
+Aryan Jindal
